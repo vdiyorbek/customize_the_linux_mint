@@ -14,4 +14,4 @@ third, Move fonts of figet to figlet, then delete downloaded fonts.
 gedit /etc/bash.bashrc
 	figlet -f Bloody "Phoenix" |lolcat -a -d 50
   
- https://www.imageupload.net/upload-image/2020/02/11/Screenshot-at-2020-02-11-18-47-54.png
+https://www.imageupload.net/image/JQi4h
